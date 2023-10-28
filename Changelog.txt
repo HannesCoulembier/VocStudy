@@ -1,5 +1,7 @@
 CHANGELOG:
 
-Added
-- Added ability to choose the question column out of multiple columns.
-- VocStudy now checks for this Changelog.txt file when asking to update.
+Added:
+- Support for numbers in cells (If you had a question/answer being a pure number, it would crash the program)
+- Errors are now printed at the end of a crash with a small hint to send the error message to the owner of the program.
+Fixed:
+- Changelog was not printing correctly (no newlines or tabs)
