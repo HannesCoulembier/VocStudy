@@ -1,7 +1,4 @@
 CHANGELOG:
 
-Added:
-- Support for numbers in cells (If you had a question/answer being a pure number, it would crash the program)
-- Errors are now printed at the end of a crash with a small hint to send the error message to the owner of the program.
 Fixed:
-- Changelog was not printing correctly (no newlines or tabs)
+- Crash when sending data to spreadsheet
