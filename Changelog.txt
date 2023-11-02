@@ -1,4 +1,6 @@
 CHANGELOG:
 
+Added:
+- Updater now logs errors when downloading
 Fixed:
-- Crash when sending data to spreadsheet
+- Crash when launcing updater
